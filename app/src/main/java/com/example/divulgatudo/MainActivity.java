@@ -13,9 +13,9 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-
 import com.example.divulgatudo.DAO.DAO;
 import com.example.divulgatudo.Objeto.Anuncios;
+
 import com.github.rtoshiro.util.format.SimpleMaskFormatter;
 import com.github.rtoshiro.util.format.text.MaskTextWatcher;
 
