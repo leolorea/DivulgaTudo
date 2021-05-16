@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     private Button buttonCadastrar;
     private ListView listView;
     private TextView textInvest, textShare, textClicks, textViews, textNomes;
-    private long alcanceMaximo, investimentoTotal;
+    private long investimentoTotal;
     private List<String> nomes;
     List<Anuncios> anuncio;
     private SearchView searchView;
